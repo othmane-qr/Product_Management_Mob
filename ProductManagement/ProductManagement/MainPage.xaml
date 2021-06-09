@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProductManagement.MainPage">
+
+    <StackLayout>
+        <StackLayout>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+                <Image x:Name="imgBanner" Source="banner.png" ></Image>
+                <Image Margin="0,0,0,10" HeightRequest="100" Source="SQLite.png" ></Image>
+                <Label Margin="0,0,0,10" Text="Product Management" FontAttributes="Bold" FontSize="Large" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
+                <Entry x:Name="txtProduitId" Placeholder="ProduitId Update and Delete"></Entry>
+                <Entry x:Name="txtName" Placeholder="Enter Produit Name"></Entry>
+                <Entry x:Name="txtDescription" Placeholder="Enter Produit Description"></Entry>
+                <Entry x:Name="txtPrice" Placeholder="Enter Produit Price"></Entry>
+                <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Button x:Name="btnAdd" WidthRequest="200" BackgroundColor="#1168fc" Text="Add" Clicked="BtnAdd_Clicked" />
+                    <Button x:Name="btnRead" WidthRequest="200" BackgroundColor="#1168fc" Text="Read" Clicked="BtnRead_Clicked" />
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Button x:Name="btnUpdate" WidthRequest="200" BackgroundColor="#1168fc" Text="Update" Clicked="BtnUpdate_Clicked"/>
+                    <Button x:Name="btnDelete" WidthRequest="200" BackgroundColor="#1168fc" Text="Delete" Clicked="BtnDelete_Clicked" />
+                    
+                    
+                </StackLayout>
+
+                <Button x:Name="btnUpload" WidthRequest="200" BackgroundColor="#11fcbb" TextColor="#fff" Text="Upload photo" Clicked="UploadImage_Clicked" />
+                <!--<ListView  x:Name="lstProduits">
+                    <ListView.HeaderTemplate>
+                        <DataTemplate>
+                            <Grid Padding="12" >
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="408"/>
+                                    <ColumnDefinition Width="360"/>
+                                    <ColumnDefinition Width="360"/>
+                                </Grid.ColumnDefinitions>
+                                <Label Text="Composition"/>
+                                <Label Grid.Column="1" Text="Artist" />
+                                <Label  Grid.Column="2" Text="Release Date"/>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.HeaderTemplate>
+                    <ListView.ItemTemplate>
+                        <DataTemplate x:Name="TableDataTemplate" >
+                            <Grid  AutomationProperties.Name="{Binding Name}">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="48"/>
+                                    <ColumnDefinition Width="360"/>
+                                    <ColumnDefinition Width="360"/>
+                                    <ColumnDefinition Width="360"/>
+                                </Grid.ColumnDefinitions>
+                                -->
+                <!--<Ellipse Height="32" Width="32" VerticalOptions="Center">
+                                    <Ellipse.Fill>-->
+                <!--
+                                <Frame CornerRadius="100" 
+                                       HeightRequest="200"
+                                       WidthRequest="200"
+                                       HorizontalOptions="Center"
+                                       Padding="0"
+                                       IsClippedToBounds="True">
+                                    <Image Source="{Binding Image}" HorizontalOptions="Center" VerticalOptions="Center"/>
+                                </Frame>
+                                -->
+                <!--</Ellipse.Fill>
+                                </Ellipse>-->
+                <!--
+                                <Label  Grid.Column="1" VerticalTextAlignment="Center"  Text="{Binding Description}" />
+                                <Label  Grid.Column="2" VerticalTextAlignment="Center" Text="{Binding Price}"/>
+                                <Label  Grid.Column="3" VerticalTextAlignment="Center" Text="{Binding Id}"/>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>-->
+
+                <ListView x:Name="lstProduits" BackgroundColor="#060606" HasUnevenRows="True"  >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell >
+                                <Frame HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" BackgroundColor="White">
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto"></RowDefinition>
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition></ColumnDefinition>
+                                            <ColumnDefinition></ColumnDefinition>
+                                            <ColumnDefinition></ColumnDefinition>
+                                            <ColumnDefinition></ColumnDefinition>
+                                        </Grid.ColumnDefinitions>
+                                        <Label Text="{Binding Id}"   Grid.Row="0" Grid.Column="0" />
+                                        <Label Text="{Binding Name}"   Grid.Row="0" Grid.Column="1" />
+                                        <Label Text="{Binding Description}" Grid.Row="0" Grid.Column="2" />
+                                        <Label Text="{Binding Price}" Grid.Row="0" Grid.Column="3" />
+                                        <Image Source="{Binding Image}" WidthRequest="100" Margin="0,0,10,0" />
+                                        
+                                        
+                                            
+                                    </Grid>
+                                </Frame>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+
+
+</ContentPage>

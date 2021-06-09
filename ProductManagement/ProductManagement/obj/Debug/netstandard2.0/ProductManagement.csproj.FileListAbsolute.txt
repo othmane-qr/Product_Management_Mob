@@ -1,0 +1,41 @@
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\bin\Debug\netstandard2.0\ProductManagement.deps.json
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\bin\Debug\netstandard2.0\ProductManagement.dll
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\bin\Debug\netstandard2.0\ref\ProductManagement.dll
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\bin\Debug\netstandard2.0\ProductManagement.pdb
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.dll
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ref\ProductManagement.dll
+C:\Users\Youcode\Desktop\Les briefs\Xamarin.Forms-Application-Gestion-des-produits\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.pdb
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\bin\Debug\netstandard2.0\ProductManagement.deps.json
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\bin\Debug\netstandard2.0\ProductManagement.dll
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\bin\Debug\netstandard2.0\ref\ProductManagement.dll
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\bin\Debug\netstandard2.0\ProductManagement.pdb
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.dll
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ref\ProductManagement.dll
+C:\Users\Youcode\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.pdb
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\bin\Debug\netstandard2.0\ProductManagement.deps.json
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\bin\Debug\netstandard2.0\ProductManagement.dll
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\bin\Debug\netstandard2.0\ref\ProductManagement.dll
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\bin\Debug\netstandard2.0\ProductManagement.pdb
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.dll
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ref\ProductManagement.dll
+C:\Users\Administrateur\Desktop\ProductManagement\ProductManagement\ProductManagement\obj\Debug\netstandard2.0\ProductManagement.pdb
